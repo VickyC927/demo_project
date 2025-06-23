@@ -1,3 +1,4 @@
 data file for project
 透過雲端直接修改 , 本機在 pull/fetch 更新後應該會看到這一段文字
 改由本機修改後再sync 回 github
+下載到自己電腦後再push去我的雲端
