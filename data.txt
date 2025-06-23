@@ -3,3 +3,4 @@ data file for project
 改由本機修改後再sync 回 github
 下載到自己電腦後再push去我的雲端
 再從雲端編輯,本機更新PULL新的檔案出來 
+在本機使用魷魚把檔案上傳PUSH至github
